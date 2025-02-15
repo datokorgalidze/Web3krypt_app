@@ -1,4 +1,6 @@
-# Web3 Project
+# Krypt - Web 3.0 Blockchain Application
+
+![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 This project is a blockchain-based application that utilizes Solidity smart contracts and connects to MetaMask for user interactions. The project is configured using Hardhat and deployed on the Sepolia test network.
 
